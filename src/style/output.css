@@ -809,6 +809,11 @@ video {
   justify-self: center;
 }
 
+.break-normal {
+  overflow-wrap: normal;
+  word-break: normal;
+}
+
 .break-all {
   word-break: break-all;
 }
